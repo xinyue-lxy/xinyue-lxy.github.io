@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xinyue Li"
-  avatar           : "IMG_1803.JPG"
-  bio              : 
+  avatar           : "/images/IMG_1803.JPG"
+  bio              : " "
   location         : "New Haven, CT"
   employer         :
   pubmed           : 
