@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xinyue Li"
-# description              : " "
+description              : "Ph.D. student in Applied Mathematics at Yale University"
 repository               : "xinyue-lxy/xinyue-lxy.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xinyue Li"
   avatar           : "IMG_1803.JPG"
-  bio              : "Yale University"
+  bio              : 
   location         : "New Haven, CT"
   employer         :
   pubmed           : 

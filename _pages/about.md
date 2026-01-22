@@ -29,23 +29,39 @@ Hi! I’m Xinyue Li, a second-year Ph.D. student in Applied Mathematics at Yale 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/double_descent.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Least squares regression can exhibit under-parameterized double descent](https://proceedings.neurips.cc/paper_files/paper/2024/file/2d43f7a61b57f83619f82c971e4bddc0-Paper-Conference.pdf)
+Least squares regression can exhibit under-parameterized double descent [pdf](https://proceedings.neurips.cc/paper_files/paper/2024/file/2d43f7a61b57f83619f82c971e4bddc0-Paper-Conference.pdf)
 
 **Xinyue Li**, Rishi Sonthalia
+
+In NeurIPS, 2024
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/double_descent.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/double_descent.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Least squares regression can exhibit under-parameterized double descent](https://proceedings.neurips.cc/paper_files/paper/2024/file/2d43f7a61b57f83619f82c971e4bddc0-Paper-Conference.pdf)
+Intentional Youth Development Activities and Peer Effects in a Gang Prevention Program [pdf](https://escholarship.org/content/qt1dm425fb/qt1dm425fb_noSplash_1466192b3fc80ae5d8c3e3329ed29271.pdf)
 
-**Xinyue Li**, Rishi Sonthalia
+Haoran Jia, Haoyu Li, **Xinyue Li**, Xiaoxian Shen, Yichen Wang, Zichun Liao and Bertozzi, Andrea L. and Brantingham, P. Jeffrey and Lelmi, Jona
+
+In IEEE International Conference on Big Data (BigData), 2023
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/double_descent.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Under-Parameterized Double Descent for Ridge Regularized Least Squares Denoising of Data on a Line [pdf](https://openreview.net/pdf?id=KZ47dqKtGs)
+
+Rishi Sonthalia, **Xinyue Li**, and Bochao Gu
+
+In NeurIPS Workshop on Mathematics of Modern Machine Learning, 2023
+</div>
+</div>
+
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
