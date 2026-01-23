@@ -24,6 +24,8 @@ Hi! I’m Xinyue Li, a second-year Ph.D. student in Applied Mathematics at Yale 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
+<span class='anchor' id='publications'></span>
+
 # Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS</div><img src='images/double_descent.png' alt="sym" width="100%"></div></div>
