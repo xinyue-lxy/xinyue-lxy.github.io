@@ -40,7 +40,7 @@ In NeurIPS, 2024
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/dmd.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/DMD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Intentional Youth Development Activities and Peer Effects in a Gang Prevention Program [pdf](https://escholarship.org/content/qt1dm425fb/qt1dm425fb_noSplash_1466192b3fc80ae5d8c3e3329ed29271.pdf)
