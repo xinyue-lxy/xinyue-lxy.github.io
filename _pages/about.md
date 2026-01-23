@@ -24,6 +24,13 @@ Hi! I’m Xinyue Li, a second-year Ph.D. student in Applied Mathematics at Yale 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
+<span class='anchor' id='research-interests'></span>
+
+# Research Interests
+- **Large Language Models**: Developing reasoning systems in knowledge-intensive and specialized environments.
+- **Math for Machine Learning**:  Using math to analyze existing methods in machine learning and prove theoretical results.
+- **AI for Science**: Applying scientific foundation models to understand, predict, and design biological systems.
+
 <span class='anchor' id='publications'></span>
 
 # Publications 
@@ -33,6 +40,19 @@ Hi! I’m Xinyue Li, a second-year Ph.D. student in Applied Mathematics at Yale 
 - [Intentional Youth Development Activities and Peer Effects in a Gang Prevention Program](https://escholarship.org/content/qt1dm425fb/qt1dm425fb_noSplash_1466192b3fc80ae5d8c3e3329ed29271.pdf), Haoran Jia, Haoyu Li, **Xinyue Li**, Xiaoxian Shen, Yichen Wang, Zichun Liao, Andrea L. Bertozzi, P. Jeffrey Brantingham, and Jona Lelmi, **IEEE BigData 2023**
 
 - [Under-Parameterized Double Descent for Ridge Regularized Least Squares Denoising of Data on a Line](https://openreview.net/pdf?id=KZ47dqKtGs), Rishi Sonthalia, **Xinyue Li**, and Bochao Gu, **NeurIPS Workshop on Mathematics of Modern Machine Learning 2023**
+
+<span class='anchor' id='teaching-and-services'></span>
+
+# Teaching and Services
+
+## Teaching
+
+- MATH-1100: Introductions to Functions and Calculus I, Fall 2025
+- AMTH-1600: The Structure of Networks, Spring 2026
+
+## Services
+
+- **Reviewer**: NeurIPS 2024
 
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->

@@ -9,6 +9,7 @@
 .sidebar {
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
+  font-size: 0.8em; // Adjusted font size for sidebar
 
   @include clearfix();
   margin-bottom: 1em;
@@ -95,7 +96,7 @@
     width: 75px;
     height: 75px;
     object-fit: cover;
-    border-radius: 50%;
+    border-radius: 0;
 
     @include breakpoint($large) {
       width: 175px;
